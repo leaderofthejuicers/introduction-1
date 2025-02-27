@@ -1,0 +1,2 @@
+2ae1830 Добавил status.txt
+bf518b6 Created README.md
